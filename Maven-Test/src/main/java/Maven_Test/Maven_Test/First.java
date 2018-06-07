@@ -15,6 +15,7 @@ public class First {
 		FirefoxDriver driver = new FirefoxDriver();
 		
 		driver.get("https://www.google.com");
+		driver.get("https://www.gmail.com");
 
 	}
 
